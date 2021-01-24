@@ -8,10 +8,10 @@
 		<relativePath/>
 	</parent>
 	<groupId>br.com.plataformalancamento</groupId>
-	<artifactId>PLGECOMMERCEKABYLE</artifactId>
+	<artifactId>PLGKABYLEAPI</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>PLGECOMMERCEKABYLE</name>
-	<description>Demo project for Spring Boot</description>
+	<name>PLGKABYLEAPI</name>
+	<description>PLGKABYLEAPI</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
