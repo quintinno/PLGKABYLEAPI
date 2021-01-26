@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>br.com.plataformalancamento</groupId>
 	<artifactId>PLGKABYLEAPI</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>v001.000.001-SNAPSHOT</version>
 	<name>PLGKABYLEAPI</name>
 	<description>PLGKABYLEAPI</description>
 	<properties>
