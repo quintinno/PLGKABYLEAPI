@@ -1,0 +1,36 @@
+{
+	"info": {
+		"_postman_id": "469b55df-71c3-411f-b781-1132cd1f709d",
+		"name": "PLGKABYLEAPI",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Livro",
+			"item": [
+				{
+					"name": "Recuperar Lista de Livros",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://plgkabyleapi.herokuapp.com/api/v1/livro",
+							"protocol": "https",
+							"host": [
+								"plgkabyleapi",
+								"herokuapp",
+								"com"
+							],
+							"path": [
+								"api",
+								"v1",
+								"livro"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
