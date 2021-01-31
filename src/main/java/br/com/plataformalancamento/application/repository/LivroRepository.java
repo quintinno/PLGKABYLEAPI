@@ -15,4 +15,7 @@ public interface LivroRepository extends JpaRepository<LivroModel, Long> {
 	@RestResource(path = "categoria")
 	public Page<LivroModel> findByCategoriaLivroModelCodigo(@Param("codigo") Long codigo, Pageable pageable);
 	
+	@RestResource(path = "pesquisarNomeLivro")
+	public Page<LivroModel> findByNomeIgnoreCaseContaining(@Param("nome") String nome, Pageable pageable);
+	
 }
